@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Cristhian Mejias Serrano</h1>
-<h3 align="center">I'm a frontend developer in Colombia, I've been learning and building projects in React for 1 year</h3>
+<h3 align="center">I'm a Frontend Developer based in Colombia, I like building User Interfaces using JavaScript with React Ecosystem.
+
+Here you will find some of my personal projects and blogs I've posted about Frontend Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
